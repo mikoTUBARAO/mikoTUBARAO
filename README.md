@@ -41,9 +41,8 @@
 
 ## 📫 **Vamos conversar?**  
 
-💬 **Me encontre em:**  
-[![Discord](https://lanyard-profile-readme.vercel.app/api/1352383554885128365)](https://discord.com/users/1352383554885128365)
-📧 **E-mail:** mikotubarao@gmail.com 
+💬 **Fale comigo em:**  
+📧 **Discord:** @mikotubarao
 
 ---
 
